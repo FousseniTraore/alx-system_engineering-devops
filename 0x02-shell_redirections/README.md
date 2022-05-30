@@ -1,1 +1,1 @@
-This a the shell redirection project
+This the shell redirections exercise
