@@ -1,1 +1,1 @@
-This the shell redirections exercise
+This is the shell redirections exercise
